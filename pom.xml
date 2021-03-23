@@ -12,6 +12,7 @@
 
     <version>1.0</version>
     <name>Grain Bank</name>
+
 	<build>
 		<finalName>GrainBankApp</finalName>
 		<plugins>
